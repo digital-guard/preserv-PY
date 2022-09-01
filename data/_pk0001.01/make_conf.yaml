@@ -5,10 +5,10 @@ schemaId_template: ref027a
 codec:descr_encode: srid=4326
 
 files:
-    -
-        p:    1
-        file: 7a7177dec5f8cc10d4dc0120b4207c697eb8dff2472c08721b725e6c731f7e88.pbf
-        name: Dados OpenStreetMap
+- file: 7a7177dec5f8cc10d4dc0120b4207c697eb8dff2472c08721b725e6c731f7e88.pbf
+  name: Dados OpenStreetMap
+  p: 1
+  size: 125633613
 
 license_evidences:
     definition: [ODbL-1.0, odbl, http://www.opendefinition.org/licenses/odc-odbl]
