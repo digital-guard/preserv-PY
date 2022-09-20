@@ -1,7 +1,7 @@
 # preserv-PY
 [Preservación digital](https://en.wikipedia.org/wiki/Digital_preservation) de las principales fuentes de la **base de datos AddressForAll-Paraguay**, mantenida por el [Instituto AddressForAll](http://addressforall.org/).
 
-A Paraguay se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**PY**](https://en.wikipedia.org/wiki/ISO_3166-2:PY) y el número [**600**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](http://Wikidata.org) el identificador [Q733](http://wikidata.org/entity/Q733); en OpenStreetMap el identificador de [*relación* 287077](http://osm.org/relation/287077).
+A Paraguay se le asignó: en el contexto [ISO&nbsp;3166](https://en.wikipedia.org/wiki/ISO_3166) el geocódigo [**PY**](https://en.wikipedia.org/wiki/ISO_3166-2:PY) y el número [**600**](https://en.wikipedia.org/wiki/ISO_3166-1_numeric); en [Wikidata](https://wikidata.org) el identificador [Q733](http://wikidata.org/entity/Q733); en [OpenStreetMap](https://osm.org) el identificador de [*relación* 287077](http://osm.org/relation/287077).
 
 
 ## Organización territorial
