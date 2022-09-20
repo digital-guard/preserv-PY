@@ -1,2 +1,20 @@
-osm_id,parent_id,jurisd_base_id,jurisd_local_id,name,name_en,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,phone_prefix,info
-
+osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
+287077,600,0,"República del Paraguay",INT,PY,733,py,PY,595,"{""area_sr"": 35.30339, ""area_km2"": 399901, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 632.4, ""iso3166_alpha3"": ""PRY"", ""side_estim_deg"": 5.9417, ""elongation_factor"": 1.82}"
+389882,600,682642,"Alto Paraguay",PY,16,682642,alto.paraguay,PY-16,,
+389891,600,682654,"Alto Paraná",PY,10,682654,alto.parana,PY-10,,
+389886,600,686586,Amambay,PY,13,686586,amambay,PY-13,,
+389883,600,741017,Boquerón,PY,19,741017,boqueron,PY-19,,
+389890,600,880399,Caaguazú,PY,5,880399,caaguazu,PY-5,,
+389897,600,881839,Caazapá,PY,6,881839,caazapa,PY-6,,
+389888,600,279085,Canindeyú,PY,14,279085,canindeyu,PY-14,,
+389892,600,372461,Central,PY,11,372461,central,PY-11,,
+389885,600,741009,Concepción,PY,1,741009,concepcion,PY-1,,
+389889,600,755121,Cordillera,PY,3,755121,cordillera,PY-3,,
+12556624,600,2933,"Distrito Capital de Paraguay",PY,ASU,2933,distrito.capital.paraguay,PY-ASU,,
+389894,600,755116,Guairá,PY,4,755116,guaira,PY-4,,
+389898,600,222564,Itapúa,PY,7,222564,itapua,PY-7,,
+389896,600,591194,Misiones,PY,8,591194,misiones,PY-8,,
+389893,600,240014,Paraguarí,PY,9,240014,paraguari,PY-9,,
+389884,600,750551,"Presidente Hayes",PY,15,750551,presidente.hayes,PY-15,,
+389887,600,526176,"San Pedro",PY,2,526176,san.pedro,PY-2,,
+389895,600,755115,Ñeembucú,PY,12,755115,neembucu,PY-12,,
