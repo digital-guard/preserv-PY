@@ -1,5 +1,4 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-287077,600,0,"República del Paraguay",INT,PY,733,py,PY,595,"{""area_sr"": 35.30339, ""area_km2"": 399901, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 632.4, ""iso3166_alpha3"": ""PRY"", ""side_estim_deg"": 5.9417, ""elongation_factor"": 1.82}"
 389882,600,682642,"Alto Paraguay",PY,16,682642,alto.paraguay,PY-16,,
 389891,600,682654,"Alto Paraná",PY,10,682654,alto.parana,PY-10,,
 389886,600,686586,Amambay,PY,13,686586,amambay,PY-13,,
