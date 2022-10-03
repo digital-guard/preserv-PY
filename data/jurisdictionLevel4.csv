@@ -1,19 +1,19 @@
 osm_id,jurisd_base_id,jurisd_local_id,name,parent_abbrev,abbrev,wikidata_id,lexlabel,isolabel_ext,ddd,info
-389882,600,682642,"Alto Paraguay",PY,16,682642,alto.paraguay,PY-16,,
-389891,600,682654,"Alto Paraná",PY,10,682654,alto.parana,PY-10,,
-389886,600,686586,Amambay,PY,13,686586,amambay,PY-13,,
-389883,600,741017,Boquerón,PY,19,741017,boqueron,PY-19,,
-389890,600,880399,Caaguazú,PY,5,880399,caaguazu,PY-5,,
-389897,600,881839,Caazapá,PY,6,881839,caazapa,PY-6,,
-389888,600,279085,Canindeyú,PY,14,279085,canindeyu,PY-14,,
-389892,600,372461,Central,PY,11,372461,central,PY-11,,
-389885,600,741009,Concepción,PY,1,741009,concepcion,PY-1,,
-389889,600,755121,Cordillera,PY,3,755121,cordillera,PY-3,,
-12556624,600,2933,"Distrito Capital de Paraguay",PY,ASU,2933,distrito.capital.paraguay,PY-ASU,,
-389894,600,755116,Guairá,PY,4,755116,guaira,PY-4,,
-389898,600,222564,Itapúa,PY,7,222564,itapua,PY-7,,
-389896,600,591194,Misiones,PY,8,591194,misiones,PY-8,,
-389893,600,240014,Paraguarí,PY,9,240014,paraguari,PY-9,,
-389884,600,750551,"Presidente Hayes",PY,15,750551,presidente.hayes,PY-15,,
-389887,600,526176,"San Pedro",PY,2,526176,san.pedro,PY-2,,
-389895,600,755115,Ñeembucú,PY,12,755115,neembucu,PY-12,,
+389882,600,682642,"Alto Paraguay",PY,16,682642,alto.paraguay,PY-16,,"{""area_sr"": 6.80687, ""area_km2"": 78549, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 280.3, ""side_estim_deg"": 2.609, ""elongation_factor"": 1.85}"
+389891,600,682654,"Alto Paraná",PY,10,682654,alto.parana,PY-10,,"{""area_sr"": 1.27602, ""area_km2"": 14223, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 119.3, ""side_estim_deg"": 1.1296, ""elongation_factor"": 2.61}"
+389886,600,686586,Amambay,PY,13,686586,amambay,PY-13,,"{""area_sr"": 1.10426, ""area_km2"": 12548, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 112, ""side_estim_deg"": 1.0508, ""elongation_factor"": 2.66}"
+389883,600,741017,Boquerón,PY,19,741017,boqueron,PY-19,,"{""area_sr"": 7.71581, ""area_km2"": 88280, ""fat_deg_m"": 0.0000093, ""side_estim_km"": 297.1, ""side_estim_deg"": 2.7777, ""elongation_factor"": 1.38}"
+389890,600,880399,Caaguazú,PY,5,880399,caaguazu,PY-5,,"{""area_sr"": 1.11862, ""area_km2"": 12492, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 111.8, ""side_estim_deg"": 1.0576, ""elongation_factor"": 2.45}"
+389897,600,881839,Caazapá,PY,6,881839,caazapa,PY-6,,"{""area_sr"": 0.86433, ""area_km2"": 9568, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 97.8, ""side_estim_deg"": 0.9297, ""elongation_factor"": 2.78}"
+389888,600,279085,Canindeyú,PY,14,279085,canindeyu,PY-14,,"{""area_sr"": 1.33578, ""area_km2"": 15027, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 122.6, ""side_estim_deg"": 1.1558, ""elongation_factor"": 2.26}"
+389892,600,372461,Central,PY,11,372461,central,PY-11,,"{""area_sr"": 0.21693, ""area_km2"": 2415, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 49.1, ""side_estim_deg"": 0.4658, ""elongation_factor"": 3.17}"
+389885,600,741009,Concepción,PY,1,741009,concepcion,PY-1,,"{""area_sr"": 1.62956, ""area_km2"": 18523, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 136.1, ""side_estim_deg"": 1.2765, ""elongation_factor"": 2.2}"
+389889,600,755121,Cordillera,PY,3,755121,cordillera,PY-3,,"{""area_sr"": 0.47155, ""area_km2"": 5264, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 72.6, ""side_estim_deg"": 0.6867, ""elongation_factor"": 1.81}"
+12556624,600,2933,"Distrito Capital de Paraguay",PY,ASU,2933,distrito.capital.paraguay,PY-ASU,,"{""area_sr"": 0.01119, ""area_km2"": 125, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 11.2, ""side_estim_deg"": 0.1058, ""elongation_factor"": 1.86}"
+389894,600,755116,Guairá,PY,4,755116,guaira,PY-4,,"{""area_sr"": 0.35091, ""area_km2"": 3898, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 62.4, ""side_estim_deg"": 0.5924, ""elongation_factor"": 2.19}"
+389898,600,222564,Itapúa,PY,7,222564,itapua,PY-7,,"{""area_sr"": 1.39456, ""area_km2"": 15360, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 123.9, ""side_estim_deg"": 1.1809, ""elongation_factor"": 2.4}"
+389896,600,591194,Misiones,PY,8,591194,misiones,PY-8,,"{""area_sr"": 0.7553, ""area_km2"": 8309, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 91.2, ""side_estim_deg"": 0.8691, ""elongation_factor"": 2.09}"
+389893,600,240014,Paraguarí,PY,9,240014,paraguari,PY-9,,"{""area_sr"": 0.79052, ""area_km2"": 8765, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 93.6, ""side_estim_deg"": 0.8891, ""elongation_factor"": 2.21}"
+389884,600,750551,"Presidente Hayes",PY,15,750551,presidente.hayes,PY-15,,"{""area_sr"": 6.5168, ""area_km2"": 73648, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 271.4, ""side_estim_deg"": 2.5528, ""elongation_factor"": 1.68}"
+389887,600,526176,"San Pedro",PY,2,526176,san.pedro,PY-2,,"{""area_sr"": 1.80632, ""area_km2"": 20332, ""fat_deg_m"": 0.0000094, ""side_estim_km"": 142.6, ""side_estim_deg"": 1.344, ""elongation_factor"": 2.03}"
+389895,600,755115,Ñeembucú,PY,12,755115,neembucu,PY-12,,"{""area_sr"": 1.14698, ""area_km2"": 12638, ""fat_deg_m"": 0.0000095, ""side_estim_km"": 112.4, ""side_estim_deg"": 1.071, ""elongation_factor"": 2.5}"
